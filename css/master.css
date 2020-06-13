@@ -146,4 +146,12 @@
    50%{background-color:cyan;}
    100%{background-color:black;}
  }
+@media only screen and (max-width:480px)
+ {
+  table{
+   overflow-x:auto;
+   display:block;
+  }
+}
+   
  
